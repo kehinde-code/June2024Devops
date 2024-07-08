@@ -1,0 +1,5 @@
+application:
+   name: web-service
+   port: 8080
+   users: 1000
+   colorScheme: both
